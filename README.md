@@ -4,7 +4,7 @@ the principal amount, rate of interest, and the number of years.
 
 Calculate the interest amount and the year.
 
-For number of years there is drop down box for selecting year between 0 to 10.
+For number of years there is drop down box for selecting year between 1 to 10.
 
 If the user enters negative or zeroes as the principal amount. 
 It will display the message "please enter a positive number".
